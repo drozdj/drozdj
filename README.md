@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/drozdj/drozdj/blob/main/1716336391923.jpeg" alt="Credits to https://www.linkedin.com/in/villetuulos/">
 
 <!--
 **drozdj/drozdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
