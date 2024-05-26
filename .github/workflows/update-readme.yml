@@ -2,7 +2,7 @@ me: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # Runs at 2030 UTC
     - cron: '30 20 * * *'
   workflow_dispatch:
 jobs:
